@@ -1,0 +1,481 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39",
+        "fileHash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3"
+      },
+      "expiry": 1620674216580
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39",
+        "fileHash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39",
+        "fileHash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv",
+        "fileHash": "46c7d1a6e4de6777759d5eff828b03028c388c2d138c8a3a6f1412b26e038fca9003ae7c77b0cdd48c4b1b39c420121954a7f6e2ac305c02d3b4d21b421b1474",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_WindowsRegistryService": [
+      {
+        "architecture": 3,
+        "path": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39",
+        "fileHash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3",
+        "companyDisplayName": "Python Software Foundation",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv",
+        "fileHash": "46c7d1a6e4de6777759d5eff828b03028c388c2d138c8a3a6f1412b26e038fca9003ae7c77b0cdd48c4b1b39c420121954a7f6e2ac305c02d3b4d21b421b1474"
+      },
+      "expiry": 1620674216707
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39",
+        "fileHash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit",
+        "hash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3-697b5acdf4de1bdaef31062ea474c9fc"
+      },
+      "expiry": 1620674216856
+    },
+    "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('venv': venv)",
+        "hash": "46c7d1a6e4de6777759d5eff828b03028c388c2d138c8a3a6f1412b26e038fca9003ae7c77b0cdd48c4b1b39c420121954a7f6e2ac305c02d3b4d21b421b1474-410c10830cebfdc1ca6c18a1671c3757"
+      },
+      "expiry": 1620674232971
+    },
+    "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3",
+        "info": {
+          "architecture": 3,
+          "path": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39",
+          "fileHash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3",
+          "companyDisplayName": "Python Software Foundation",
+          "type": "Unknown",
+          "displayName": "Python 3.9.0 64-bit"
+        }
+      },
+      "expiry": 1620674216875
+    },
+    "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "46c7d1a6e4de6777759d5eff828b03028c388c2d138c8a3a6f1412b26e038fca9003ae7c77b0cdd48c4b1b39c420121954a7f6e2ac305c02d3b4d21b421b1474",
+        "info": {
+          "architecture": 3,
+          "path": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv",
+          "fileHash": "46c7d1a6e4de6777759d5eff828b03028c388c2d138c8a3a6f1412b26e038fca9003ae7c77b0cdd48c4b1b39c420121954a7f6e2ac305c02d3b4d21b421b1474",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.9.0 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1620674232988
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
+      "architecture": 3,
+      "path": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv",
+      "fileHash": "46c7d1a6e4de6777759d5eff828b03028c388c2d138c8a3a6f1412b26e038fca9003ae7c77b0cdd48c4b1b39c420121954a7f6e2ac305c02d3b4d21b421b1474",
+      "envName": "venv",
+      "type": "Venv"
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv",
+      "fileHash": "46c7d1a6e4de6777759d5eff828b03028c388c2d138c8a3a6f1412b26e038fca9003ae7c77b0cdd48c4b1b39c420121954a7f6e2ac305c02d3b4d21b421b1474",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39",
+      "fileHash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3",
+      "type": "Unknown"
+    },
+    "InterpreterAutoSeletionRule-windowsRegistry": {
+      "architecture": 3,
+      "path": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39",
+      "fileHash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3",
+      "companyDisplayName": "Python Software Foundation",
+      "type": "Unknown"
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39",
+      "fileHash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3",
+      "companyDisplayName": "Python Software Foundation",
+      "type": "Unknown",
+      "displayName": "Python 3.9.0 64-bit"
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python39",
+      "fileHash": "9557fc78f57b52bdb3c8c5b659ae8bc823a024887e2bd533f0635c9ce79f65c5779aa14f90dc7cf78bf4d58d03d8488e0e4fc12a24e7aa3efe0e9804aa7853a3",
+      "companyDisplayName": "Python Software Foundation",
+      "type": "Unknown"
+    },
+    "ProposeLSBanner": false
+  },
+  "coc-python|C:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:3eeee04aa10f725065513bb7204afbfa": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:3eeee04aa10f725065513bb7204afbfa": [
+      {
+        "architecture": 3,
+        "path": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv",
+        "fileHash": "46c7d1a6e4de6777759d5eff828b03028c388c2d138c8a3a6f1412b26e038fca9003ae7c77b0cdd48c4b1b39c420121954a7f6e2ac305c02d3b4d21b421b1474",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe",
+    "autoSelectedWorkspacePythonInterpreter-c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI": {
+      "architecture": 3,
+      "path": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv",
+      "fileHash": "46c7d1a6e4de6777759d5eff828b03028c388c2d138c8a3a6f1412b26e038fca9003ae7c77b0cdd48c4b1b39c420121954a7f6e2ac305c02d3b4d21b421b1474",
+      "envName": "venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv\\Scripts\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "c:\\Users\\USUARIO\\Desktop\\Diego\\Python\\FastAPI\\venv",
+        "fileHash": "46c7d1a6e4de6777759d5eff828b03028c388c2d138c8a3a6f1412b26e038fca9003ae7c77b0cdd48c4b1b39c420121954a7f6e2ac305c02d3b4d21b421b1474",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ]
+  }
+}

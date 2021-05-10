@@ -1,0 +1,5 @@
+Ir a la configuración de Windows Terminal
+Abrir el archivo json
+
+Agregar en los profiles-list-powershell
+"fontFace": "CaskaydiaCove Nerd Font"
